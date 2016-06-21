@@ -1,0 +1,14 @@
+{
+  "name": "poc-cluster",
+  "version": "1.0.0",
+  "description": "poc para entender como funcionam clusters no node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Líverton Oliveira <lifelipe7@live.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
